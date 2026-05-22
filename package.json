@@ -1,7 +1,7 @@
 {
   "name": "@mapvina/mapvina-gl-style-spec",
   "description": "a specification for mapvina styles",
-  "version": "24.8.5",
+  "version": "1.0.0",
   "author": "MapVina",
   "keywords": [
     "mapbox",
